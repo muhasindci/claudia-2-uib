@@ -6,7 +6,7 @@ header {
   overflow: auto;
 }
 body {
-  background-image: url(/images/library-background.jpeg);
+  background-image: url(../images/library-background.jpeg);
   background-size: cover;
 }
 
